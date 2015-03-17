@@ -1,0 +1,17 @@
+{
+  "name": "jquery-ui",
+  "version": "1.11.0",
+  "dependencies": {
+    "components/jquery": "2.1.1"
+  },
+  "main": "jquery-ui.js",
+  "scripts": [
+    "jquery-ui.js"
+  ],
+  "styles": [
+    "jquery-ui.css"
+  ],
+  "images": [
+    "images/*"
+  ]
+}
